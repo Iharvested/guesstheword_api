@@ -14,21 +14,6 @@
       "id": 3,
       "word": "other",
       "description": "A word you can use to describe another word/thing
-    },
-    {
-      "id": 4,
-      "word": "dog",
-      "description": "A tiny little good boi"
-    },
-    {
-      "id": 5, 
-      "word": "cat",
-      "description": "a smol boi"
-    },
-    {
-      "id": 6, 
-      "word": "bird",
-      "description": "a winged cute flying animal"
     }
   ],
   "profile": {
