@@ -1,19 +1,9 @@
 {
   "words_and_descriptions": [
     {
-      "id": 1,
-      "word": "hello",
-      "description": "A word you can use to greet somebody"
-    },
-    {
-      "id": 2,
-      "word": "test",
-      "description": "A word you can use to see if something works"
-    },
-    {
-      "id": 3,
-      "word": "other",
-      "description": "A word you can use to describe another word/thing
+  "id": 1,
+  "word": "hello",
+  "description": "A word you can use to greet somebody"
     }
   ],
   "profile": {
