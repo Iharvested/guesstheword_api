@@ -3,14 +3,36 @@
     {
       "id": 1,
       "word": "hello",
-      "description": "A word you can use to greet somebody"
+      "def": "used as a greeting or to begin a phone conversation."
     },
     {
       "id": 2, 
-      "word": "do"
+      "word": "dog",
+      "def": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice"
+    },
+    {
+      "id": 3,
+      "word": "cat",
+      "def": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed"
+    },
+    {
+      "id": 4,
+      "word": "bird",
+      "def": "a warm-blooded egg-laying vertebrate animal distinguished by the possession of feathers, wings, a beak, and typically by being able to fly"
+    },
+    {
+      "id": 5,
+      "word": "funny",
+      "def": "causing laughter or amusement; humorous" 
+    },
+    {
+      "id": 6,
+      "word": "animal",
+      "a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli"
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
+
